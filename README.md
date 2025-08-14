@@ -1,6 +1,6 @@
 ## Hi, I'm Sivaneshwaran 👋
 Senior Test Analyst | Cognizant Technology solution | chennai, India
-📧 sivaneshwaran631@gmail.com | 📞 +91 7418758688
+📧 sivaneshwaran631@gmail.com | 📞 +91 7418758688  |
 🔗 [LinkedIn](https://www.linkedin.com/in/sivaneshwaran-ganesan-044516212/)  |  [Portfolio](https://sivaneshwaran6301.github.io/Portfolio1/)
 
 ## 🚀 Tech Stack
