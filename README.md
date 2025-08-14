@@ -5,7 +5,7 @@ Senior Test Analyst | Cognizant Technology solution | chennai, India
 
 ## 🚀 Tech Stack
 - 🖥️ Java | JavaScript
-- 🌐 Selenium-Java | Cucumber-Java | Cypress-JS
+- 🌐 Selenium-Java | Cucumber-Java | Cypress-JS | React.js | SQL
 
 ## 📚 Education & Certification
 🎓 B.Tech in Mechanical Engineering – Sri Manakula Vinayagar Engg. College, Puducherry (2022)
